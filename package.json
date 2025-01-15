@@ -64,7 +64,7 @@
     "@fontsource/dela-gothic-one": "^5.1.1",
     "@fontsource/krona-one": "^5.1.0",
     "@fontsource/lexend-exa": "^5.1.0",
-    "@fontsource/roboto-condensed": "^5.1.0",
+    "@fontsource/roboto-condensed": "^5.1.1",
     "@formkit/auto-animate": "^0.8.2",
     "@imgproxy/imgproxy-node": "^1.0.6",
     "@inlang/paraglide-sveltekit": "0.15.5",
