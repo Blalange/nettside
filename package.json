@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "@catppuccin/tailwindcss": "^0.1.6",
-    "@iconify/svelte": "^4.1.0",
+    "@iconify/svelte": "^4.2.0",
     "@inlang/cli": "^2.18.1",
     "@inlang/paraglide-js": "1.11.8",
     "@playwright/test": "^1.49.0",
