@@ -36,8 +36,8 @@ importers:
         specifier: ^5.1.1
         version: 5.1.1
       '@fontsource/krona-one':
-        specifier: ^5.1.0
-        version: 5.1.0
+        specifier: ^5.1.1
+        version: 5.1.1
       '@fontsource/lexend-exa':
         specifier: ^5.1.0
         version: 5.1.0
@@ -1362,8 +1362,8 @@ packages:
   '@fontsource/dela-gothic-one@5.1.1':
     resolution: {integrity: sha512-TSO7kNNV+Ux9VaHR3FDDhT3mPV7O9jTBqatLw1993w57G9sQDpAGzGepTNCZcNW987ZUVFUMO+I8Vh/37Un2Yg==}
 
-  '@fontsource/krona-one@5.1.0':
-    resolution: {integrity: sha512-79rKfvOrH+bahevvxTBN9eajMGV4vkskMQY/+7Q7sXer8IPGL/8swzj9FDHVIjltZtwMhRBCr0z7L+RIuaBFqw==}
+  '@fontsource/krona-one@5.1.1':
+    resolution: {integrity: sha512-vCywG2T/p0uapWp0unBSeLwMW5oeqpI/EIpGvNUTHW8W3gtViygQXRLeF5zsNFdOMcxEsiNQt17Vib0VqB8uUg==}
 
   '@fontsource/lexend-exa@5.1.0':
     resolution: {integrity: sha512-zyYTB0dm+NADMxvlxTcLdmcruzV+PWe39VYN9EO0nLJCm7ENmjf3EMq1nxFvdYO0aUqJgVn5bkygRWziSuQiTQ==}
@@ -5918,7 +5918,7 @@ snapshots:
 
   '@fontsource/dela-gothic-one@5.1.1': {}
 
-  '@fontsource/krona-one@5.1.0': {}
+  '@fontsource/krona-one@5.1.1': {}
 
   '@fontsource/lexend-exa@5.1.0': {}
 
